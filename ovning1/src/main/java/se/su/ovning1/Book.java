@@ -6,7 +6,7 @@ public class Book extends Item implements PriceableWithVAT6 {
     private boolean bound;
     private String author;
 
-    public Book(String name, String author, boolean bound, double price) {
+    public Book(String name, String author, double price, boolean bound) {
         super(name);
         this.author = author;
         this.price = price;

@@ -1,4 +1,3 @@
-package se.su.ovning1;
 
 import java.util.ArrayList;
 import java.util.List;

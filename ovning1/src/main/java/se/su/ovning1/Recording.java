@@ -1,4 +1,3 @@
-package se.su.ovning1;
 
 public abstract class Recording extends Item implements PriceableWithVAT25{
 
